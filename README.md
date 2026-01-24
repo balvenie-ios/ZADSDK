@@ -137,15 +137,9 @@ A: 請檢查 **Build Settings** 中的 **Always Embed Swift Standard Libraries**
 
 **Q: 呼叫 `showFullAd` 沒反應？**
 
-
-
 A: 請確認是否已開啟 `enableLogging` 並檢查 Console 輸出。如果廣告正在顯示中，再次呼叫會被忽略。
 
-
-
 **Q: 編譯時出現 `Could not find or use auto-linked library 'swiftCompatibility56'` 警告？**
-
-
 
 A: 這是因為 Xcode 在純 Objective-C 專案中未完全初始化 Swift 連結環境。
 
