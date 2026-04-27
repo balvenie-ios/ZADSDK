@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "2.0.0"
-let checksum = "03ff6baa465205887f1313a6fc7080debfdb6cb107aaacc89a8b2438bcb727f3"
+let version = "3.0.0"
+let checksum = "9cc7e2e41a85bb56d5d95695f3a68eaf7da989d0ee1bd41256b184a11a379368"
 
 let package = Package(
     name: "ZADSDK",
